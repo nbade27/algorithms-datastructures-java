@@ -4,7 +4,7 @@ public class ShellSort {
 
 
     public static void main(String[] args) {
-        int[] intArray = {9,8,7,6,5,4,3,2,1,56,55,54,43,32};
+        int[] intArray = {9,8,7,4,5,6,1,2,3,10};
 
         /*
         1.we need to generate gap value by half of the array length
@@ -24,7 +24,7 @@ public class ShellSort {
                 int newElement = intArray[i];
 
                 int j = i;
-                while (j >= gap && intArray[j - gap] > intArray[i])
+                while (j >= gap && intArray[j - gap] > newElement)
                 {
                     intArray[j] = intArray[j - gap];
                     j -= gap;

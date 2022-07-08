@@ -8,6 +8,11 @@ package com.naga.algorithms;
 //but answer is same
 public class BubbleSortAlgorithm {
 
+/**
+ * It always checks the adjacent element if we find any big element we will call swap method
+ *
+ * NOTE: this multiple swaps make this algorithm slower
+ */
 
     public static void main(String[] args) {
 

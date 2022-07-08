@@ -22,7 +22,7 @@ public class RecursiveAlgorithm {
     //let us use recursion for same factorial
     public static int recursiveFactorial(int num)
     {
-        if(num == 0) return 1;
+         if(num == 0) return 1;
         return num * recursiveFactorial(num - 1);
     }
 }
