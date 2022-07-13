@@ -7,12 +7,12 @@ public class Recursion {
         //we must have breaking condition in recursion programming
         //we will use factorial for example
 
-        int fact = factorial(19);
+        long fact = factorial(99);
         //getting 0 for 99 may be type issue
         System.out.println(fact);
     }
 
-    public static int factorial(int num){
+    public static long factorial(long num){
         if(num == 0) return 1;
        // System.out.println(num);
 

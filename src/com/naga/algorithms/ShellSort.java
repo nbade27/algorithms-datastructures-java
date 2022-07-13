@@ -28,7 +28,7 @@ public class ShellSort {
                 {
                     intArray[j] = intArray[j - gap];
                     j -= gap;
-                }
+                } 
                 // we should not use below line because after first itreration ith index value will be changed
                // intArray[j] = intArray[i];
                 intArray[j] = newElement;
@@ -37,7 +37,7 @@ public class ShellSort {
             }
 
         }
-
+//    System.arraycopy();
 
         for (int i = 0; i < intArray.length; i++) {
             //testing commit 4
