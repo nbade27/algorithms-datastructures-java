@@ -1,4 +1,4 @@
-package com.naga.algorithms;
+package com.naga.algorithms.sort;
 
 //testing specific file commit 2
 //the moral of the story is that if we implement this bubble sort with

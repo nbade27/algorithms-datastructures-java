@@ -1,4 +1,4 @@
-package com.naga.algorithms;
+package com.naga.algorithms.sort;
 
 public class ShellSort {
 

@@ -1,4 +1,4 @@
-package com.naga.algorithms;
+package com.naga.algorithms.sort;
 /**
  *  As the name suggests we will select element from left to right and compares with each other element
  *  and if we find any bigger element we will take that element.
