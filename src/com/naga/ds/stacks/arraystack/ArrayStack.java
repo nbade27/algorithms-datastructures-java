@@ -1,4 +1,4 @@
-package com.naga.ds.stacks;
+package com.naga.ds.stacks.arraystack;
 
 import java.util.EmptyStackException;
 

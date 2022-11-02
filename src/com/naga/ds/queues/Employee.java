@@ -1,4 +1,4 @@
-package com.naga.ds.stacks;
+package com.naga.ds.queues;
 
 public class Employee {
 
@@ -64,5 +64,6 @@ public class Employee {
                 ", id=" + id +
                 '}';
     }
+
 
 }
