@@ -1,0 +1,4 @@
+This repo contains DSA in java.
+
+Plan: After learning each concept go to leetcode and practice the same concept wise problems.
+
