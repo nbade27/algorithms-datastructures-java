@@ -2,3 +2,28 @@ This repo contains DSA in java.
 
 Plan: After learning each concept go to leetcode and practice the same concept wise problems.
 
+Data Structure:
+       1. Organizes and stores the data.
+       2. Each has strength and weakness
+
+The fact is, there aren't just two sides to any issue, there's almost always a range of responses, and "it depends" is
+almost always the right answer in any big question. - Linus Torvalds(Invented Linux)
+
+Algorithms:
+
+    Making a tea
+        1. Boil water
+        2. Add teabag to a cup
+        3. Pour boiling water into the cup
+        4. Remove the bag when tea os ready
+        5. Add desired amount of milk to the cup
+        6. Add desired amount of sugar to the cup
+        7. Stir the contents of the cup with spoon
+
+    These are the steps need to make a tea.
+
+    Note:
+        There can be many algorithms that accomplish the same task
+        There can be many implementations of same algorithm
+
+
